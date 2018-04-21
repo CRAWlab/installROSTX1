@@ -17,7 +17,9 @@ sudo apt-get install ros-kinetic-ros-base -y
 # You can install a specific ROS package (replace underscores with dashes of the package name):
 # sudo apt-get install ros-kinetic-PACKAGE
 # e.g.
-# sudo apt-get install ros-kinetic-navigation
+sudo apt-get install ros-kinetic-navigation -y
+
+
 #
 # To find available packages:
 # apt-cache search ros-kinetic
